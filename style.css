@@ -8,3 +8,12 @@ header{
      background-color: antiquewhite;
      text-align: center;
 }
+
+img{
+     width: 50%;
+     margin: 5em;
+     max-height: 40%;
+     filter: drop-shadow(5px 5px 5px red);
+
+
+}
