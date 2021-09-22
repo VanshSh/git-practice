@@ -3,3 +3,7 @@
 ### Semantic Elements are the elements which have specific meaning.
 
 ## Examples:  `<header>`, `<footer>`, `<nav>`, `<section>`,`<article>`, `<main>`, `<aside>`
+
+## Benefits:
+
+- Helps visually impaired users.
