@@ -8,3 +8,10 @@ header{
      background-color: antiquewhite;
      text-align: center;
 }
+
+main{
+     background-color:darkgrey;
+     color: black;
+     margin: 2em;
+     
+}
