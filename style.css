@@ -13,5 +13,12 @@ main{
      background-color:darkgrey;
      color: black;
      margin: 2em;
-     
+}
+figure{
+     width: 50%;
+     margin: 5em;
+     max-height: 40%;
+     filter: drop-shadow(5px 5px 5px red);
+
+
 }
